@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/378897501.svg)](https://zenodo.org/badge/latestdoi/378897501)
+
 # PEEGO
  Point Exchange Efficient Global Optimisation (PEEGO) algorithm. This repository is associated to the paper "Computer-aided Design of Formulated Products: a Bridge Design of Experiments for Ingredient Selection"
  
